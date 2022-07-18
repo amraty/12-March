@@ -1,0 +1,28 @@
+package yadav;
+
+public class ladder {
+	public static void main(String[] args) {
+		int mark=95;// ladder is where we can put if after else
+		if (mark<=100 && mark>0) 
+		{
+		if (mark>90)
+		{
+			System.out.println("a+ grade");
+		}	
+		else if(mark>=80 && mark<90) 
+		{
+			System.out.println("b+ grade");
+		}
+		else if(mark>70);
+		{
+			System.out.println("c+ grade");
+		}
+		}
+		else
+		{
+			System.out.print("invalid input ");
+		}
+		
+	}
+
+}

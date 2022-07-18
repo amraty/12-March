@@ -1,0 +1,16 @@
+package yadav;
+
+public class chiledclass 
+{
+int a=100;
+String c="this is a chiled class";
+public void demo() 
+    {
+	System.out.println("this is ademo method");
+	}
+static public void main(String[] args) 
+{
+	chiledclass obj = new chiledclass();
+	obj.demo();
+}
+}

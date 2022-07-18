@@ -1,0 +1,23 @@
+package yadav;
+
+public class greternumber {
+	public static void main (String [] args) {
+		int mark=99;
+		if( mark<=100)
+		{
+			if(mark>40)
+			{
+				System.out.println("u are passed");
+			}
+			
+			}
+		
+		}
+			
+		
+
+		
+			
+	}
+
+

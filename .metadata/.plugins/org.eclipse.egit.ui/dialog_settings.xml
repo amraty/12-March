@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="CommitDialog.authorValues">
+		<item value="amraty &lt;amraty@gmail.com&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="amraty &lt;amraty@gmail.com&gt;"/>
+	</list>
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+		<item value="bitbucket.org"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="MAIN_SASH_FORM_ORIENTATION_VERTICAL" value="true"/>
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="200,200"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="C:\Users\AMRAT\eclipse-workspace\.git">
+			<item value="false"/>
+			<item value="amraty &lt;amraty@gmail.com&gt;"/>
+			<item value="TEST ADDED&#x0D;&#x0A;"/>
+			<item value="amraty &lt;amraty@gmail.com&gt;"/>
+			<item value="c0cff6daceaf6735b3654e846a8810de7c95d219"/>
+			<item value="0"/>
+			<item value="false"/>
+		</list>
+	</section>
+</section>

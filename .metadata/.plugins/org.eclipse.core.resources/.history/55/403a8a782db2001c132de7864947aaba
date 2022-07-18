@@ -1,0 +1,22 @@
+package yadav;
+
+public class nested {
+	public static void main(String[] args) {
+		int mark=100;
+		if (mark<=100)
+		{
+			if(mark>40)
+			{
+				System.out.print("u are passed");
+			}
+			else {
+				System.out.print("u are failed");
+			}
+			
+		}
+		else{
+			System.out.print("invalid mark");
+		}
+	}
+
+}
